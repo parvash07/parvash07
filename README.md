@@ -21,7 +21,7 @@ I enjoy building web applications and solving coding problems to sharpen my prob
 
 📌 Projects
 
-    Brewnie ☕
+[Brewnie ☕️](https://parvash07.github.io/brewnie/)
 
     Description: A sleek and aesthetic coffee menu website that showcases different coffee types with beautiful images, interesting facts, and inspiring quotes.
     Designed with a classy UI using HTML and CSS.

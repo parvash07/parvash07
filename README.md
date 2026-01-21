@@ -5,7 +5,7 @@ I enjoy building web applications and solving coding problems to sharpen my prob
 
 🚀 What I’m Up To?
 
-	•	🌱 Learning Javascript, React, Node.js
+	•	🌱 Learning React, Node.js
  
 	•	🔍 Practicing DSA in Java
  
@@ -16,7 +16,7 @@ I enjoy building web applications and solving coding problems to sharpen my prob
 
 🛠️ Tech Stack
 
-💻 Frontend: HTML, CSS
+💻 Frontend: HTML, CSS, Javascript
 
 
 📌 Projects

@@ -1,5 +1,4 @@
-im currently learning DSA.
-I enjoy building web applications.
+im currently learning DSA and I enjoy building web applications.
 
 📫 Let’s Connect!
 

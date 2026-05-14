@@ -5,7 +5,7 @@ I enjoy building web applications and solving coding problems to sharpen my prob
 
 🚀 What I’m Up To?
 
-	•	🌱 Learning React, Node.js
+	•	🌱 Learning Node.js
  
 	•	🔍 Practicing DSA in Java
  
@@ -17,14 +17,6 @@ I enjoy building web applications and solving coding problems to sharpen my prob
 🛠️ Tech Stack
 
 💻 Frontend: HTML, CSS, Javascript
-
-
-📌 Projects
-
-[Brewnie ☕️](https://parvash07.github.io/brewnie/)
-
-    Description: A sleek and aesthetic coffee menu website that showcases different coffee types with beautiful images, interesting facts, and inspiring quotes.
-    Designed with a classy UI using HTML and CSS.
 
 📫 Let’s Connect!
 

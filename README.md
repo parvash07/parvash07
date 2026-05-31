@@ -100,12 +100,12 @@ Keep tabs on where your money goes, without the feature overload.
 <tr>
 <td width="50%" valign="top">
 
-#### ☕ [Brewnie](https://github.com/parvash07/brewnie)
-> Aesthetic coffee menu website
+#### ☕ [minimalnotes](https://github.com/parvash07/minimalnotes)
+> A full stack notes app based on React and Spring Boot
 
-Sleek, classy UI showcasing different coffee types with beautiful images, interesting facts, and curated quotes. Pure HTML & CSS — no framework needed.
+Create, read, update, and delete notes with a clean, simple interface.
 
-`HTML` `CSS`
+`React` `Spring Boot` `PostgreSQL` `CSS`
 
 </td>
 <td width="50%" valign="top">

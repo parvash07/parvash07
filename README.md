@@ -43,17 +43,15 @@ const parvash = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend**
+**Backend & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
 
 </div>
 
@@ -100,7 +98,7 @@ Keep tabs on where your money goes, without the feature overload.
 <tr>
 <td width="50%" valign="top">
 
-#### ☕ [minimalnotes](https://github.com/parvash07/minimalnotes)
+#### 📝 [minimalnotes](https://github.com/parvash07/minimalnotes)
 > A full stack notes app based on React and Spring Boot
 
 Create, read, update, and delete notes with a clean, simple interface.

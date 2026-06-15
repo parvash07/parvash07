@@ -34,7 +34,9 @@ Decoupled DOM mutations from React's render cycle for smooth 60fps animations.
 ## 🛠️ Stack
 
 **Backend** — Java, Spring Boot, Spring Data JPA, PostgreSQL, REST APIs
-**Frontend** — React, JavaScript, Tailwind CSS, Vite  
+
+**Frontend** — React, JavaScript, Tailwind CSS, Vite
+
 **Tools** — Git, Railway, Vercel, Docker, pgvector
 
 ---

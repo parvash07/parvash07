@@ -1,11 +1,11 @@
-# Hey, I'm Parvash 👋
+# Hey, I'm Parvash
 
 I'm a BTech CS student ('27), building full-stack apps.
 I work mostly with Java + Spring Boot on the backend and React on the frontend.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [Reviewly](https://github.com/parvash07/reviewly) — AI-Powered Code Review App
 Submit code and get structured reviews with severity-graded findings, fix hints, and letter-grade scores.
@@ -31,7 +31,7 @@ Decoupled DOM mutations from React's render cycle for smooth 60fps animations.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Backend** — Java, Spring Boot, Spring Data JPA, PostgreSQL, REST APIs
 

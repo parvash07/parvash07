@@ -11,7 +11,7 @@ I work mostly with Java + Spring Boot on the backend and React on the frontend.
 Submit code and get structured reviews with severity-graded findings, fix hints, and letter-grade scores.
 Supports Java, Python, TypeScript, JavaScript, and Go. Review history persisted in PostgreSQL.
 
-`Java` `Spring Boot` `React` `PostgreSQL` `Groq API`
+`Java` `Spring Boot` `React` `PostgreSQL` `Groq API` · [Live Demo →](https://reviewly-vert.vercel.app/)
 
 ---
 
@@ -19,7 +19,7 @@ Supports Java, Python, TypeScript, JavaScript, and Go. Review history persisted 
 Bookmark any URL and get AI-generated summaries, tags, and semantic search powered by vector embeddings.
 Built with pgvector + Google Gemini for natural language search across your saved links.
 
-`Java` `Spring Boot` `React` `PostgreSQL` `pgvector` `Groq API` `JWT`
+`Java` `Spring Boot` `React` `PostgreSQL` `pgvector` `Groq API` `JWT` · [Live Demo →](https://webstash-nu.vercel.app/)
 
 ---
 

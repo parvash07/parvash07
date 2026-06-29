@@ -42,5 +42,4 @@ Decoupled DOM mutations from React's render cycle for smooth 60fps animations.
 ---
 
 ## 📬 Let's connect
-
-[Portfolio](https://parvashportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parvash-sharma-693a14283/) · [Email](mailto:parvashsharma47@gmail.com) · [GitHub](https://github.com/parvash07)
+[LinkedIn](https://www.linkedin.com/in/parvash-sharma-693a14283/) · [Email](mailto:parvashsharma47@gmail.com) · [GitHub](https://github.com/parvash07)
